@@ -17,6 +17,3 @@
 4. Run the local host on your browser:
 http://127.0.0.1:8000/#
 
-
-# Sample screenshot
-![alt text](https://i.imgur.com/XzIfVjX.png)
